@@ -1,6 +1,8 @@
-.big-banner {
-    background-image: url('images/do_something_great_pic.jpg');
-    background-size: 50%;
+.jumbotron {
+    background-image: url('assets/images/do_something_great_pic.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 .hearder {
     font-size: large;
