@@ -25,9 +25,9 @@ Bootstap & Google
 ![image info](./assets/images/homework02_screengrab.png)
 
 ## Links
-[link to GitHub!](www.msn.com)
+[link to GitHub!](https://github.com/ryanwit/homework02_responsiveness_portfolio)
 
-[link to Webpage!](www.msn.com)
+[link to Webpage!](https://ryanwit.github.io/homework02_responsiveness_portfolio/)
 
 
 # License
